@@ -41,4 +41,7 @@ p.styles{
 p.indent{ 
 	padding-left: 1.8em 
 }
-			
+
+span.highlight {
+    background-color: blue;
+}			
